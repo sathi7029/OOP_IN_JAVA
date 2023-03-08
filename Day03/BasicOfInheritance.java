@@ -1,5 +1,5 @@
 //here we see basic of inheritance also...see single level inheritence
-package Day3;
+package Day03;
 class Human{
     void walk(){
         System.out.println("human is walking...");

@@ -1,4 +1,4 @@
-package Day2;
+package Day02;
 public class DemoOfThis {
     int age;
     void display(int age){

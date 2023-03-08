@@ -1,4 +1,4 @@
-package Day3;
+package Day03;
 class car{
     void color(){
         System.out.println("car color...");
